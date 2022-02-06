@@ -39,6 +39,59 @@
         const title = document.getElementById("title");
         const artist = document.getElementById("artist");
 
+        const songList = [
+            {
+                name: "track1",
+                title: "track1",
+                artist: "artist1"
+            },
+            {
+                name: "track2",
+                title: "track2",
+                artist: "artist2"
+            },
+            {
+                name: "track3",
+                title: "track3",
+                artist: "artist3"
+            },
+            {
+                name: "track4",
+                title: "track4",
+                artist: "artist4"
+            },
+            {
+                name: "track5",
+                title: "track5",
+                artist: "artist5"
+            },
+            {
+                name: "track6",
+                title: "track6",
+                artist: "artist6"
+            },
+            {
+                name: "track7",
+                title: "track7",
+                artist: "artist7"
+            },
+            {
+                name: "track8",
+                title: "track8",
+                artist: "artist8"
+            },
+            {
+                name: "track9",
+                title: "track9",
+                artist: "artist9"
+            },
+            {
+                name: "track10",
+                title: "track10",
+                artist: "artist10"
+            }
+        ]
+
         let isPlaying = false;
 
         const playMusic = () =>{
@@ -57,6 +110,35 @@
 
         play.addEventListener("click", () => {
             isPlaying ? pauseMusic() : playMusic();
+        })
+
+        const loadSong = (song) => {
+            title.textContent = song.title;
+            artist.textContent = song.artist;
+            music.src = `music/${song.name}.mp3`;
+            img.src = `images/${song.name}.jpg`;
+        }
+
+        index = 0;
+        count = songList.length;
+        loadSong(songList[index]);
+
+        next.addEventListener("click", () =>{
+            //pauseMusic();
+            index = (index + 1) % count;
+            loadSong(songList[index]);
+            playMusic();
+            
+        })
+
+        /prev.addEventListener("click", () =>{
+            //pauseMusic();
+            index = index - 1;
+            if(index==-1){
+                index = 9;
+            }
+            loadSong(songList[index]);
+            playMusic();  
         })
     </script>
 </body>
