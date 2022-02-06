@@ -116,14 +116,13 @@ prev.addEventListener("click", prevSong);
 //KeyBoard Controls//
 
 document.addEventListener("keypress", (e) => {
-    if (e.keyCode == 112 || e.keyCode == 80){
+    if (e.keyCode == 32){
         if(isPlaying){
-          playMusic();
+          pauseMusic();
         } 
         else{
-          pauseMusic();
+          playMusic();
         }
-    isPlaying = !isPlaying;
     }
 });
 
