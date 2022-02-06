@@ -23,8 +23,8 @@ html{
 }
 
 .music_container{
-    width: 400px;
-    height: 600px;
+    width: 350px;
+    height: 550px;
     background-color: white;
     border-radius: 2rem;
     box-shadow: 0 1.2rem 3rem 0.5rem rgba(0, 0, 0, 0.2);
@@ -67,12 +67,12 @@ img {
 }
 
 .music_controls {
-    width: 25rem;
+    width: 20rem;
     display: flex;
     justify-content: space-between;
     margin: auto;
     align-items: center;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 
 .music_controls .fas {
