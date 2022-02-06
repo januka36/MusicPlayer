@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="main_div">
+        <div class="music_container">
+            <h2 id="title">track</h2>
+            <h3 id="artist">artist</h3>
+            <div class="img_container">
+                <img src="images/image1.jpg" alt="img">
+            </div>
+            <audio src="music/track1.mp3"></audio>
+            <!-- Controls -->
+            <div class="music_controls">
+                <i class="fas fa-step-backward" id="prev" title="previous"></i>
+                <i class="fas fa-play" id="play" title="play"></i>
+                <i class="fas fa-step-forward" id="next" title="next"></i>
+            </div>
+        </div>
+    </div>
+    <!-- Script -->
+    <script>
+        const music = document.querySelector("audio");
+        const img = document.querySelector("img");
+        const play = document.getElementById("play");
+        const prev = document.getElementById("prev");
+        const next = document.getElementById("next");
+
+        const title = document.getElementById("title");
+        const artist = document.getElementById("artist");
+
+        let isPlaying = false;
+
+        const playMusic = () =>{
+            isPlaying = true;
+            music.play();
+            play.classList.replace("fa-play" , "fa-pause");
+            img.classList.add("anime");
+        }
+
+        const pauseMusic = () =>{
+            isPlaying = false;
+            music.pause();
+            play.classList.replace("fa-pause" , "fa-play");
+            img.classList.remove("anime");
+        }
+
+        play.addEventListener("click", () => {
+            isPlaying ? pauseMusic() : playMusic();
+        })
+    </script>
+</body>
+</html>  
