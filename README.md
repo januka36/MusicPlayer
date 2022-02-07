@@ -16,8 +16,6 @@ The functionality of this app
 3) Play/Pause song using a Play/Pause button.
 4) Background image is changed automatically according to the song.
 
-## Requirement
-
 ## Usage
 
 Browse it!
@@ -28,21 +26,23 @@ $ [web-page](https://januka36.github.io/MusicPlayer/)
 
 The buttons are having a reliable hovering to add more reliability to the software. 
   
-<h3>This is how the web page is displayed on the PC</h3>
+## This is how the web page is displayed on the PC
   
 <p align="center">
-  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/Capture.JPG" width="550" title="hover text"></p>
+  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/ss1.jpg" width="550" title="hover text">
+</p>
   
 <h3>This is the music player in its full view</h3>
 
 <p align="center">  
-  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6.png" width="550" title="hover text">
+  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/ss2.jpg" width="550" title="hover text">
 </p>
   
 <h3>This is how the wep page is displayed on the mobile phone</h3>
   
 <p align="center">
-  <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6_1.png" width="550" title="hover text"></p>
+  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/phone%20ss.jpeg" width="550" title="hover text">
+</p>
   
 <h3>Tou can watch the web-app view in the below video!</h3>
 
