@@ -11,8 +11,8 @@ html{
     font-family: "Roboto", sans-serif;
 }
 
-.main_div{
-    width: 100vw;
+.main_div {
+    width: 100wv;
     height: 100vh;
     display: grid;
     place-items: center;

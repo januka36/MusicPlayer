@@ -49,8 +49,8 @@ const songList = [
         artist: "P!nk, Willow Sage Hart"
     },
     {
-        name: "Chasing Birds",
-        title: "Chasing Birds",
+        name: "Chasing birds",
+        title: "Chasing birds",
         artist: "Foo Fighters"
     },
     {
