@@ -34,13 +34,13 @@ The buttons are having a reliable hovering to add more reliability to the softwa
 ## This is the music player in its full view
 
 <p align="center">  
-  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/ss2.jpg" width="250" height="450" title="hover text">
+  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/ss2.jpg" width="250" height="400" title="hover text">
 </p>
   
 ## This is how the wep page is displayed on the mobile phone
   
 <p align="center">
-  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/phone%20ss.jpeg" width="250" height="450" title="hover text">
+  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/phone%20ss.jpeg" width="250" height="400" title="hover text">
 </p>
   
 ## Tou can watch the web-app view in the below video!
