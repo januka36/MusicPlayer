@@ -44,7 +44,7 @@ The buttons are having a reliable hovering to add more reliability to the softwa
   <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/phone%20ss.jpeg" width="250" height="500" title="hover text">
 </p>
   
-## Tou can watch the web-app view in the below video!
+## You can watch the web-app view in the below video!
 
 [![Watch the video](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/backg.jpg)](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/App.mp4)
   
