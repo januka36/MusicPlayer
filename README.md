@@ -38,5 +38,4 @@ The buttons are having a reliable hovering to add more reliability to the softwa
   
 <h3>This is how the App in its responsive view</h3>
 
-
-[![Watch the video](https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6.png)](https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/Video/video.mp4)
+[![Watch the video](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/backg.jpg)](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/App.mp4)
