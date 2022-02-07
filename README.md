@@ -16,7 +16,8 @@ The speciality in this application is that there is no use of any third party li
 2) Move to next or previous songs using buttons.
 3) Play/Pause song using a Play/Pause button.
 4) Background image is changed automatically according to the song.
-
+5) For each song, the name of the song and the artist is diplayed.
+ 
 ## Usage
 
 Browse it!
