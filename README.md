@@ -45,4 +45,8 @@ The buttons are having a reliable hovering to add more reliability to the softwa
   
 ## Tou can watch the web-app view in the below video!
 
-[![Watch the video](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/backg.jpg)](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/App.mp4)
+[![Watch the video](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/backg.jpg)](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/App.mp4)]
+  
+## Resources
+  
+<li>
