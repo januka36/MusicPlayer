@@ -9,54 +9,54 @@ const artist = document.getElementById("artist");
 
 const songList = [
     {
-        name: "track1",
-        title: "track1",
-        artist: "artist1"
+        name: "Up",
+        title: "Up",
+        artist: "Cardi B"
     },
     {
-        name: "track2",
-        title: "track2",
-        artist: "artist2"
+        name: "Stronger",
+        title: "Stronger",
+        artist: "Sam Feldt ft. Kesha"
     },
     {
-        name: "track3",
-        title: "track3",
-        artist: "artist3"
+        name: "Sorry",
+        title: "Sorry",
+        artist: "Alan Walker ft. Isaac"
     },
     {
-        name: "track4",
-        title: "track4",
-        artist: "artist4"
+        name: "Provide",
+        title: "Provide",
+        artist: "G - Eazy"
     },
     {
-        name: "track5",
-        title: "track5",
-        artist: "artist5"
+        name: "Incomplete",
+        title: "Incomplete",
+        artist: "Jay Sean"
     },
     {
-        name: "track6",
-        title: "track6",
-        artist: "artist6"
+        name: "Electric",
+        title: "Electric",
+        artist: "Katy Perry"
     },
     {
-        name: "track7",
-        title: "track7",
-        artist: "artist7"
+        name: "Echoing",
+        title: "Echoing",
+        artist: "Kings of Leon"
     },
     {
-        name: "track8",
-        title: "track8",
-        artist: "artist8"
+        name: "Cover me in sunshine",
+        title: "Cover me",
+        artist: "P!nk, Willow Sage Hart"
     },
     {
-        name: "track9",
-        title: "track9",
-        artist: "artist9"
+        name: "Chasing Birds",
+        title: "Chasing Birds",
+        artist: "Foo Fighters"
     },
     {
-        name: "track10",
-        title: "track10",
-        artist: "artist10"
+        name: "Better",
+        title: "Better",
+        artist: "Zayn Malik"
     }
 ]
 
