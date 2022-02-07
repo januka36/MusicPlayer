@@ -21,9 +21,7 @@ The speciality in this application is that there is no use of any third party li
 
 Browse it!
 
-```
 [web-page](https://januka36.github.io/MusicPlayer/)
-```
 
 The buttons are having a reliable hovering to add more reliability to the software. 
   
