@@ -16,7 +16,15 @@ The functionality of this app
 3) Play/Pause song using a Play/Pause button.
 4) Background image is changed automatically according to the song.
 
-You can access the web page using following link. [web-page](https://januka36.github.io/MusicPlayer/). 
+## Requirement
+
+## Usage
+
+Browse it!
+
+```
+$ [web-page](https://januka36.github.io/MusicPlayer/)
+```
 
 The buttons are having a reliable hovering to add more reliability to the software. 
   
@@ -36,6 +44,6 @@ The buttons are having a reliable hovering to add more reliability to the softwa
 <p align="center">
   <img src="https://github.com/januka36/Simulated-line-following-robot-using-PID-controllers-with-Webots-and-Python/blob/main/Media/ScreenShots/ToQ_6_1.png" width="550" title="hover text"></p>
   
-<h3>This is how the App in its responsive view</h3>
+<h3>Tou can watch the web-app view in the below video!</h3>
 
 [![Watch the video](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/backg.jpg)](https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/App.mp4)
