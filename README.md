@@ -35,7 +35,7 @@ The buttons are having a reliable hovering to add more reliability to the softwa
 <h3>This is the music player in its full view</h3>
 
 <p align="center">  
-  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/ss2.jpg" width="350" height="700" title="hover text">
+  <img src="https://github.com/januka36/MusicPlayer/blob/master/ReadMeImages/ss2.jpg" width="350" height="600" title="hover text">
 </p>
   
 <h3>This is how the wep page is displayed on the mobile phone</h3>
