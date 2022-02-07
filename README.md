@@ -10,7 +10,8 @@ The Music App is a web-based app done using
   
 The speciality in this application is that there is no use of any third party libraries. 
 
-The functionality of this app
+## The functionality of this app
+  
 1) List of songs can be played.
 2) Move to next or previous songs using buttons.
 3) Play/Pause song using a Play/Pause button.
@@ -21,7 +22,7 @@ The functionality of this app
 Browse it!
 
 ```
-$ [web-page](https://januka36.github.io/MusicPlayer/)
+[web-page](https://januka36.github.io/MusicPlayer/)
 ```
 
 The buttons are having a reliable hovering to add more reliability to the software. 
